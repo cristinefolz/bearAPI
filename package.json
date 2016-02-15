@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cristinefolz/bearAPI/issues"
   },
-  "homepage": "https://github.com/cristinefolz/bearAPI#readme"
+  "homepage": "https://github.com/cristinefolz/bearAPI#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
